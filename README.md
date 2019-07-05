@@ -21,4 +21,4 @@ npm run build --report
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 
-只是找的别人的例子边模仿边熟悉，原版路径在此：https://github.com/bailicangdu/vue2-happyfri.git
+只是找的别人的例子边模仿边熟悉，原版路径在此：https://github.com/bailicangdu/vue2-happyfri
